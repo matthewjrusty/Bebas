@@ -27,3 +27,7 @@ print("This should be unformatted")
 System.out.println("And this one
 should be in Java syntax")
 ```
+
+```Ruby
+puts "ini bahasa Ruby :)"
+```
